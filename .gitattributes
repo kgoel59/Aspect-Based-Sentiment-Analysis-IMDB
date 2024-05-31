@@ -1,3 +1,6 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 dcnn.h5 filter=lfs diff=lfs merge=lfs -text
 bilstm.h5 filter=lfs diff=lfs merge=lfs -text
+clauses.csv filter=lfs diff=lfs merge=lfs -text
+lda.zip filter=lfs diff=lfs merge=lfs -text
+sent_data.json filter=lfs diff=lfs merge=lfs -text
